@@ -13,3 +13,6 @@
     ### Apartado-C
         * Se ven la carpeta .vscode y los archivos readme.md, tp1_1.c y tp1_1.exe.
         No hace falta que aparezcan la carpeta .vscode y el tp1_1.exe.
+
+        *En los puntos *ii* y *iii* dan el mismo resultado porque el puntero es una variable que tiene almacenada la direccion de memoria de la variable a la que apunta.
+        En el punto 4?¿(me marie) se obtiene una dirección de memoria diferente ya que el puntero al ser una variable posee una dirección de memoria propia que es la que da como resultado.
